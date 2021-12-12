@@ -201,7 +201,7 @@ scrapbox = "suna-64354306"
 
 # To add google analytics
 [extra.analytics]
-google = "UA-157767797-1"
+google = "UA-157767797-2"
 
 # To add disqus comments
 #[extra.commenting]
