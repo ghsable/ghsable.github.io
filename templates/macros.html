@@ -129,6 +129,14 @@
   </a>
   {% endif %}
 
+  {% if social_config.zenn %}
+  <a href="https://zenn.dev/{{ social_config.zenn }}" target="_blank">
+    <span class="icon is-large" title="Zenn">
+      <i class="fas fa-puzzle-piece fa-lg"></i>
+    </span>
+  </a>
+  {% endif %}
+
   {% if social_config.scrapbox %}
   <a href="https://scrapbox.io/{{ social_config.scrapbox }}" target="_blank">
     <span class="icon is-large" title="ScrapBox">
