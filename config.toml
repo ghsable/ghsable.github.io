@@ -181,7 +181,6 @@ name = "suna"
 avatar = "/images/avatar.png"
 
 # Social links
-# Social links
 [extra.social]
 #email = "<email_id>"
 #facebook = "<facebook_username>"
