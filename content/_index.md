@@ -1,5 +1,5 @@
 +++
-title = "sUn∀"
+title = "sUn∀/dev"
 description = "dhāraṇī"
 +++
 
