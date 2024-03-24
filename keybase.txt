@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dativus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ghsable.github.io
+  * I am dativus (https://keybase.io/dativus) on keybase.
+  * I have a public key with fingerprint 7B6A 307D 4CA2 102D D939  C52A 9A7E 4070 2656 1EA8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d72c1a7e75fadc82fee0cf8c9aacc6aef60b141e06384264175e7bcfd99cccec0a",
+      "fingerprint": "7b6a307d4ca2102dd939c52a9a7e407026561ea8",
+      "host": "keybase.io",
+      "key_id": "9a7e407026561ea8",
+      "kid": "0101c9101b6412a63b9ec606fdd142fd0ed6e57343d87b7fc6bff296fb3fb0d48a780a",
+      "uid": "eb9e9b28a4eecc6a9891770417e19919",
+      "username": "dativus"
+    },
+    "service": {
+      "hostname": "ghsable.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1658306957,
+  "expire_in": 157680000,
+  "prev": "c726e1aa52e2494e57a5dd60d6edab064443a4af6f6a7053fef7e62e06586725",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJ7TBxFHN7jJY9UsBYsTaG4WCUtIbN7u7O3tBjA8FBS2lg5I5LC7O7s
+3cJxd9yDQnkoShCkysPyFJBKJC1pJCm01NoWwSohJZKAFCSGWJHWBikVQVAruoft
+f84fM5mZ7/t+3/ebub7NnfDVtJbGWp/Vh57R3BhqcxLC9NB7RaRgkQrJ6CIyB28t
+2CRhuyMzR5HIaBJQNJA4WqQQhzlWRpKoo2WMgSjrRB4hUYQIyxAIFENhALU6hoYM
+xbGYE0RZ4nlRFLEIEBlJyorZgG1Wm2J2qLKcAJEWcBIjIpoCtCTxWl5kacSrZRjA
+ARqykMJIpxKNFruLoZoTkB1HKRb1TN1kbtn7H/wj34ASeXUSVD80glqBxyIEUJYk
+iqFlCWAJYpbTMlpJxwmcLEJBlmkeyoJWFoDE6BCn2/Lt3JLDKp0XaB1iMHZl5nU8
+xXFAjYopnqd4F9CObWaUi1W0hBxKvtNOlkSS6mG+ImJXX11BHgIMRjsSTDjKoDiM
+TuG/TFabxWERLSb12uhwWO3RLrqj0OrCH8dC5kOlTEExS2ovVUY+ttkVi5mMplSk
+6FBc0hRkdVoAeZaLJHGBVbHhTMWFYDmoA+pw1cH5qqTI0RBTCLE0phmeUXuBWEmC
+QG2LhAQAGYbRIgbJUIaIA6xWxjKHIa0+MquDHM2Srmx5Zouqzas+kUHVtCsGM3I4
+bZgsGR7K8CA0voSXp5vrkxG+PgGPvl7ImP8m93jG1Gpw6ywfPn5seGClt2A8ae3d
+hs3t7dWe7zT0P+/9W2Ni7bWs/D3Bw5/El+66oSk7vbcsIOMfd1PH2cLGlbHs79KZ
+ppS4+QtPj2w7Vxuak5WduH9jbqnYu+2bWM+84TTH+9YJOdfrYMzu8xafX08ur98X
+AxKaup+rXVyrSnX2fnHzKt+ycN691TN0MMkpzQza3aP6CwdJv1W34pDu3NuTHi2z
+dcWjf010LQfWv3qFYGrubEzPfNCWBbw7/Yr2dlY4xpv7HpvzunBtGCxsF/80dqyu
+vDaS9WIylXR3oeX7uaXUiolpZsEU9+mb92cn0THbkeXEr/I0ixFTCadu+qeEJBN/
+a07H1fwY+PpacJiXvibpTN7LCRVu/SPD1kIDufNo20nJ3lPybfu9BxE/NXm0hO+L
+8QrWnxjVLN6KLxjokQ6Ms58f76wqa2u8dOjJ3eshV/ztP+w/9bP0VvJoX91dPTFW
+nxryILN8Pjv1Ced16lxleuO+Qy0zf7wwORD0UWXF1duEbb5Ss2Oj5cBn4MNbl8OL
+j9QTuHzz6+YgIgs2TGpiwmKhd1p3n0/8l4fLku8dvQSmdr7U3kOUBIYAN7mZ6JpJ
+K0kP28W8EqG56Fce1JFyUL+44+Lbh+s6n3nDfMLYVb1nPfrsZU2v//rHBZsZ1MIv
++t9Li9miOwbI1jlNS9VVxqf6/wWVD7zR
+=Y8Yf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dativus
+
+==================================================================
