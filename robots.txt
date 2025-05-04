@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ghsable.github.io/sitemap.xml
